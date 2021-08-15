@@ -1,5 +1,7 @@
 # kgdm-live
 
+compartido con la gente de TLS
+
 ## Project setup
 ```
 npm install
