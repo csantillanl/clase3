@@ -7,15 +7,15 @@
         style="background-image: url('img/art3.jpg')"
       >
         <div
-          class="container grid grid-cols-1 gap-64 transition-all  lg:grid-cols-2"
+          class="container grid grid-cols-1 gap-64 transition-all lg:grid-cols-2"
         >
           <main class="">
             <div class="sm:text-center lg:text-left">
               <h1
-                class="mt-32 text-3xl font-extrabold tracking-tight text-white  sm:text-4xl md:text-5xl"
+                class="mt-32 text-3xl font-extrabold tracking-tight text-white sm:text-4xl md:text-5xl"
               >
                 <span class=""
-                  >Lecciones honestas que permiten un aprendizaje
+                  >Lecciones honestas HOLA
                   diferente.</span
                 >
               </h1>
@@ -23,7 +23,7 @@
                 Cursos honestos de comunicación y diseño.
               </p>
               <button
-                class="px-6 py-2 mt-4 font-bold text-white transition transform bg-red-600 rounded-full  hover:bg-red-500 hover:shadow-primary hover:-translate-y-1"
+                class="px-6 py-2 mt-4 font-bold text-white transition transform bg-red-600 rounded-full hover:bg-red-500 hover:shadow-primary hover:-translate-y-1"
               >
                 Ir a registro
               </button>
@@ -47,7 +47,7 @@
         </p>
         <div>
           <button
-            class="px-6 py-3 mt-16 text-xl font-bold text-white transition transform bg-red-600 rounded-full  hover:bg-red-500 hover:shadow-primary hover:-translate-y-1"
+            class="px-6 py-3 mt-16 text-xl font-bold text-white transition transform bg-red-600 rounded-full hover:bg-red-500 hover:shadow-primary hover:-translate-y-1"
           >
             Ser parte
           </button>

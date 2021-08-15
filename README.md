@@ -1,6 +1,7 @@
 # kgdm-live
 
-compartido con la gente de TLS
+compartido con la gente de TLS:
+mi commit: Jose Aljovin
 
 ## Project setup
 ```
