@@ -16,7 +16,7 @@
               >
                 <span class=""
                   >Lecciones honestas que permiten un aprendizaje
-                  diferente.</span
+                  diferente e innovador.</span
                 >
               </h1>
               <p class="mt-4 text-white opacity-80">
